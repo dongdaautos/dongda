@@ -1,7 +1,6 @@
 # Dongda Auto Service LTD — Website
 
-Vite + React + Tailwind one‑page site.
-Deploy on Vercel. After deployment, add your custom domain.
+Vite + React + Tailwind one-page site.
 
 ## Local dev
 ```bash
@@ -14,3 +13,6 @@ npm run dev
 npm run build
 ```
 
+## Notes
+- To receive form emails, replace `yourFormID` in `src/App.jsx` with your Formspree ID.
+- Deploy on Vercel and add your custom domain in Project Settings → Domains.
